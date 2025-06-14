@@ -1,0 +1,8 @@
+// allows us to specify which files and folders we
+// dont want to push to out git repo
+/vendor
+/node_modules
+/config/db.php
+.env
+.vscode
+.DS_Store
